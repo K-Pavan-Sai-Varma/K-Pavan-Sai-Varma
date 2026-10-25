@@ -10,10 +10,7 @@
 
 ## Connect with Me
 
-<!-- <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_MY_PORTFOLIO-181717?style=for-the-badge&labelColor=555555" alt="Portfolio" />
- <p align="center">
+<p align="center">
   <a href="https://leetcode.com/u/KPavan22/">
     <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555" alt="LeetCode Profile" />
   </a>
@@ -28,7 +25,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=K-Pavan-Sai-Varma&label=Profile%20Views&color=E05D44&style=flat" alt="Profile Views" />
 </p>
-
 
 ## About Me
 
