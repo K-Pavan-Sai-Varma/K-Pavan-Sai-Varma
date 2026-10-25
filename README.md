@@ -13,6 +13,7 @@
 <!-- <p align="center">
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_MY_PORTFOLIO-181717?style=for-the-badge&labelColor=555555" alt="Portfolio" />
+  <p align="center">
   </a> -->
   <a href="https://leetcode.com/u/KPavan22/">
     <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555" alt="LeetCode Profile" />
